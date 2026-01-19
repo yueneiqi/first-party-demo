@@ -1,2 +1,2 @@
 pub use demo_lib::greet;
-pub use demo_util::format_greeting;
+pub use demo_util::{format_greeting, get_platform_info};
